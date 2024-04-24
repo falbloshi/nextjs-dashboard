@@ -7,6 +7,36 @@ const users = [
     email: 'user@nextmail.com',
     password: '123456',
   },
+  {
+    id: '410544b2-4001-4271-9855-fe4bdff2442a',
+    name: 'John Smith',
+    email: 'john.smith@nextmail.com',
+    password: 'P@ssw0rd123',
+  },
+  {
+    id: '610ab82a-ec0a-493d-bf13-f7f8dfae872b',
+    name: 'Emma Johnson',
+    email: 'emma.johnson@nextmail.com',
+    password: 'SecurePwd789',
+  },
+  {
+    id: '8123e3a0-18fb-4e8d-b453-ace8a12b0f42',
+    name: 'Michael Brown',
+    email: 'michael.brown@nextmail.com',
+    password: 'Password456!',
+  },
+  {
+    id: '9e41fc61-7ed2-4ee3-9434-d4b4b26b5361',
+    name: 'Emily Davis',
+    email: 'emily.davis@nextmail.com',
+    password: 'Passw0rd!',
+  },
+  {
+    id: '5f21a680-26b1-4f26-9c57-74b2e31db056',
+    name: 'William Wilson',
+    email: 'william.wilson@nextmail.com',
+    password: 'StrongPassword321',
+  },
 ];
 
 const customers = [
@@ -38,7 +68,7 @@ const customers = [
     id: '3958dc9e-787f-4377-85e9-fec4b6a6442a',
     name: 'Steph Dietz',
     email: 'steph@dietz.com',
-    image_url: '/customers/steph-dietz.png',
+    image_url: '/customers/stephFor your dashboard project, you'll write database queries using the Vercel Postgres SDK dietz.png',
   },
   {
     id: '76d65c26-f784-44a2-ac19-586678f7c2f2',
