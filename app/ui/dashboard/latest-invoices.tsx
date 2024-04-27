@@ -6,10 +6,6 @@ import { LatestInvoice } from '@/app/lib/definitions';
 import { fetchLatestInvoices } from "@/app/lib/data";
 
 
-type LatestInvoicesProps = {
-  latestInvoices: LatestInvoice[];
-};
-
 export default function LatestInvoices({ latestInvoices }: { latestInvoices: LatestInvoice[] }) {
 
   return (
