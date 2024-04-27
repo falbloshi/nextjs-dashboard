@@ -68,7 +68,7 @@ const customers = [
     id: '3958dc9e-787f-4377-85e9-fec4b6a6442a',
     name: 'Steph Dietz',
     email: 'steph@dietz.com',
-    image_url: '/customers/stephFor your dashboard project, you'll write database queries using the Vercel Postgres SDK dietz.png',
+    image_url: '/customers/steph-deitz.png',
   },
   {
     id: '76d65c26-f784-44a2-ac19-586678f7c2f2',
